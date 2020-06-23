@@ -7,7 +7,7 @@ public class StudentModel {
 	public void addUser(int id,String username,String password) {
 		
 		//add
-		
+		String name1;
 	}
 			public void updateUser(int id,String newUsername,String newPassword) {
 					
